@@ -1,0 +1,1 @@
+console.error("\n/Users/DinaOC/Documents/Home-Projects/Bitter/templates.js:7\n\"<h4><%= date %><h4>\",\n^\nParseError: Unexpected token");

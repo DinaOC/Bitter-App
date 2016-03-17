@@ -1,0 +1,21 @@
+{
+  "name": "Bitter",
+  "authors": [
+    "Dina O'Connor <dinasuslova@gmail.com>"
+  ],
+  "description": "Butter bits",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.2"
+  }
+}
